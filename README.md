@@ -62,3 +62,7 @@ Each scheduled run of a movie on a screen at a specific date & time.
 - **Shows (25-Apr-2023):** Multiple times across screens with audio formats like Dolby 7.1, 4K ATMOS.
 
 ---
+## Files
+- `schema.sql` – run directly on MySQL (DDL + DML + P2 Query)
+- `README.md` – this document
+- ---
